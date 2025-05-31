@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My Personal blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 09:42:34 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 12:30:40 +0530</lastBuildDate>
     <atom:link href="https://naveenreddy61.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When AI Aced India&#39;s Toughest Exam: LLMs Take JEE Advanced 2025</title>
+      <link>https://naveenreddy61.github.io/posts/jeeadv/</link>
+      <pubDate>Sat, 31 May 2025 12:30:40 +0530</pubDate>
+      <guid>https://naveenreddy61.github.io/posts/jeeadv/</guid>
+      <description>&lt;h3 class=&#34;heading&#34; id=&#34;how-google&#34;&gt;&#xA;  &lt;em&gt;How Google&amp;rsquo;s Gemini 2.5 Pro achieved 90.6% on an exam where 50% is considered exceptional&lt;/em&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#how-google&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h5 class=&#34;heading&#34; id=&#34;disclaimer-parts-of-this-blog-article-were-written-with-the-help-of-llm-the-author-takes-final-responsibility-for-every-word&#34;&gt;&#xA;  Disclaimer: Parts of this blog article were written with the help of LLM. The author takes final responsibility for every word.&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#disclaimer-parts-of-this-blog-article-were-written-with-the-help-of-llm-the-author-takes-final-responsibility-for-every-word&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The Joint Entrance Examination (JEE) Advanced stands as one of the world&amp;rsquo;s most intellectually demanding undergraduate entrance tests. Designed to identify India&amp;rsquo;s brightest minds for admission to the prestigious Indian Institutes of Technology (IITs), this exam has humbled brilliant students for decades. &lt;strong&gt;A score above 50% marks you as exceptionally gifted. Above 60%? You&amp;rsquo;re in rare company.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Comparing os.scandir with glob</title>
       <link>https://naveenreddy61.github.io/posts/comparing-os.scandir-with-glob/</link>
